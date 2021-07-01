@@ -18,6 +18,8 @@ which is under the method generate_database() and for finding the item in the
 database I used collection.find_one({‘_id’: disease_id}) which is under the method
 get_disease().
 
+![image](/src/diagrams/ne4j_diagram.png)
+
 **Why Neo4j?**
 
 I chose neo4j for question 2 because it it makes it easy and fast to search
