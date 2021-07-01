@@ -2,7 +2,7 @@
 
 # Design Diagrams:
 
-
+![image](/src/diagrams/mongo_diagram.png)
 
 **Why MongoDB?**
 
